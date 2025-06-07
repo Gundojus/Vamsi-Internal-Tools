@@ -1,0 +1,32 @@
+                        Progress
+                            "Pre-press",
+                            "Press",
+                            "Post-press",
+                            "Delivered",
+                            "Payment Pending",
+                            "Payment Received"
+
+                        <option value="Pre-press">Pre-press</option>
+                                            <option value="Press">Press</option>
+                                            <option value="Post-press">Post-press</option>
+                                            <option value="Delivered">Delivered</option>
+                                            <option value="Payment Pending">Payment Pending</option>
+                                            <option value="Payment Received">Payment Received</option>
+
+                        Add pieces -> add items
+
+                            Digital Printing
+                            Offset Printing
+                            Packaging
+                            Others
+
+                        orders : filtering
+
+                        customers : name phone number items
+
+merge order | customers
+
+Logos : favicon
+
+Package.json
+package-lock.json

@@ -1,0 +1,72 @@
+{
+  "name": "Vamsi Printers Internal Tools",
+  "homepage": "https://Gundojus.github.io/Vamsi-Internal-Tools/#/",
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@quarkly/atomize": "1.0.20",
+    "@quarkly/community-kit": "0.0.87",
+    "@quarkly/components": "0.2.75",
+    "@quarkly/widgets": "0.2.75",
+    "@ramonak/react-progress-bar": "^5.3.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "dayjs": "^1.11.13",
+    "firebase": "^10.14.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.10.5",
+    "react-date-picker": "^11.0.0",
+    "react-datepicker": "^7.5.0",
+    "react-dom": "^17.0.2",
+    "react-helmet": "latest",
+    "react-icons": "^3.9.0",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^1.2.2",
+    "react-scripts": "^3.4.0",
+    "rsuite": "^5.73.1",
+    "styled-components": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start ",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "build:ci": "cross-env CI=false npm run build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "sitemap": "node ./sitemap-builder.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "quarklyMeta": {
+    "projectUid": "66f6d1359710450018a331b5",
+    "type": "create-react-app"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.18.6",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-react": "^7.13.13",
+    "@babel/register": "^7.13.16",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "cross-env": "^7.0.3",
+    "gh-pages": "^6.2.0",
+    "react-router-sitemap": "^1.2.0"
+  },
+  "version": "0.1.0",
+  "private": true
+}
