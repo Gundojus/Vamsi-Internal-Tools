@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Vamsi-Internal-Tools/static/css/main.989288b7.chunk.css",
+    "main.js": "/Vamsi-Internal-Tools/static/js/main.f00cc2d0.chunk.js",
+    "main.js.map": "/Vamsi-Internal-Tools/static/js/main.f00cc2d0.chunk.js.map",
+    "runtime-main.js": "/Vamsi-Internal-Tools/static/js/runtime-main.5d730a6c.js",
+    "runtime-main.js.map": "/Vamsi-Internal-Tools/static/js/runtime-main.5d730a6c.js.map",
+    "static/css/2.05cbb0d5.chunk.css": "/Vamsi-Internal-Tools/static/css/2.05cbb0d5.chunk.css",
+    "static/js/2.3c92b724.chunk.js": "/Vamsi-Internal-Tools/static/js/2.3c92b724.chunk.js",
+    "static/js/2.3c92b724.chunk.js.map": "/Vamsi-Internal-Tools/static/js/2.3c92b724.chunk.js.map",
+    "index.html": "/Vamsi-Internal-Tools/index.html",
+    "precache-manifest.ddbc4aa40f57287988c59aab9b6c33ea.js": "/Vamsi-Internal-Tools/precache-manifest.ddbc4aa40f57287988c59aab9b6c33ea.js",
+    "service-worker.js": "/Vamsi-Internal-Tools/service-worker.js",
+    "static/css/2.05cbb0d5.chunk.css.map": "/Vamsi-Internal-Tools/static/css/2.05cbb0d5.chunk.css.map",
+    "static/css/main.989288b7.chunk.css.map": "/Vamsi-Internal-Tools/static/css/main.989288b7.chunk.css.map",
+    "static/js/2.3c92b724.chunk.js.LICENSE.txt": "/Vamsi-Internal-Tools/static/js/2.3c92b724.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d730a6c.js",
+    "static/css/2.05cbb0d5.chunk.css",
+    "static/js/2.3c92b724.chunk.js",
+    "static/css/main.989288b7.chunk.css",
+    "static/js/main.f00cc2d0.chunk.js"
+  ]
+}
